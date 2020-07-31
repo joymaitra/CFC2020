@@ -35,10 +35,10 @@ If every consumer can be involved in the attempt to preserve then a surging impa
 
 # Built With
 
-IBM cloud DB2
-IBM cloud Foundry services - Node Red
-Watson Studio - Cognos
-RabbitMqtt
+.IBM cloud DB2
+.IBM cloud Foundry services - Node Red
+.Watson Studio - Cognos
+.RabbitMqtt
 
 # Authors
 Joy Maitra - Architect(Cognizant)
