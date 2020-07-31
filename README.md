@@ -32,6 +32,7 @@ If every consumer can be involved in the attempt to preserve then a surging impa
 # Long Description
 
 # Project Roadmap
+[Roadmap](roadmap.ppt)
 
 # Built With
 
@@ -41,8 +42,8 @@ If every consumer can be involved in the attempt to preserve then a surging impa
 - RabbitMqtt
 
 # Authors
-Joy Maitra - Architect(Cognizant)
-Abhishek Ojha - Data Analyst(Cognizant)
-Moazzam Shaikh - Data Analyst(Cognizant)
+- Joy Maitra - Architect(Cognizant)
+- Abhishek Ojha - Data Analyst(Cognizant)
+- Moazzam Shaikh - Data Analyst(Cognizant)
 
 
