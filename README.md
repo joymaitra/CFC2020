@@ -41,7 +41,8 @@ Watson Studio - Cognos
 RabbitMqtt
 
 # Authors
-
-
+Joy Maitra - Architect(Cognizant)
+Abhishek Ojha - Data Analyst(Cognizant)
+Moazzam Shaikh - Data Analyst(Cognizant)
 
 
