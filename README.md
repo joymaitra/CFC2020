@@ -4,7 +4,7 @@ This is the repository for Call for Code 2020 for the submission by team CHCGPT-
 # Short Description
 ## What's the problem?
 
-Electrical energy is a necessity is our daily life and its comsuption is always increasing. But it is devived from coal and fossil fuel and other natual sources, which are non-renewable.
+Electrical energy is a necessity is our daily life and its comsuption is always increasing. But it is derived from coal and fossil fuel and other natual sources, which are non-renewable.
 It is thus of high urgency that we try and use less amount of this energy.
 
 ## How can technology help?
@@ -14,11 +14,12 @@ Solar panel for homes
 energy efficient appliances
 smart appliances
 
-But there seems to be some gap, as the survey says that the consumption of the energy is increasing every year, and so is the production.
+But there seems to be some gap, as the survey says that the consumption of the energy is increasing every year, and so is the production to meet the requirement.
 
 ## The Idea
 
-If every consumer can be involved in the attempt to preserve then a surging impact can be achived. So the idea is to provide every customer with a dashboard reflecting their realtime consumption and the approximate cost of the consumption. Being updated and aware of the consumption and cost, they all will be cautious in utilizing the energy.
+If every consumer can be involved in the attempt to preserve then a surging impact can be achived. So the idea is to provide every customer with a dashboard reflecting their realtime consumption and the approximate cost of the consumption. 
+Being updated and aware of their consumption and cost, they all will be cautious in utilizing the energy.
 
 
 # Demo Video
