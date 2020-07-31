@@ -26,6 +26,7 @@ If every consumer can be involved in the attempt to preserve then a surging impa
 
 # The Architecture
 
+![](C:\01MyFolder\hackathon\Presentation1\upload\architecture.png)
 
 # Long Description
 
