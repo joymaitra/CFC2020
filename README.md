@@ -18,7 +18,7 @@ But there seems to be some gap, as the survey says that the consumption of the e
 
 ## The Idea
 
-If every consumer can be involved in the attempt to preserve then a surging impact can be achived.
+If every consumer can be involved in the attempt to preserve then a surging impact can be achived. So the idea is to provide every customer with a dashboard reflecting their realtime consumption and the approximate cost of the consumption. Being updated and aware of the consumption and cost, they all will be cautious in utilizing the energy.
 
 
 # Demo Video
@@ -32,7 +32,7 @@ If every consumer can be involved in the attempt to preserve then a surging impa
 # Long Description
 
 # Project Roadmap
-[Roadmap](roadmap.ppt)
+[Roadmap](roadmap.pptx)
 
 # Built With
 
