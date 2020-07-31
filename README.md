@@ -31,6 +31,13 @@ If every consumer can be involved in the attempt to preserve then a surging impa
 
 # Long Description
 
+Few steps are required to fulfil this project deployment.
+- a raspberrypi / nodemcu connected to IBM cloud mqtt service.
+- a mobile device to operate the appliances by connecting to the cloud mqtt service.
+- Node red application to capture the timing of the operation of the appliances.
+- DB2 to store the device attributes, the location detail and the timing of the operation of appliances.
+- Cognos dashboard to present the metric visualization to the end consumers. 
+
 # Project Roadmap
 [Roadmap](roadmap.pptx)
 
